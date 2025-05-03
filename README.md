@@ -72,6 +72,6 @@ A mini-project designed to explore and implement the **core concepts of Spark**,
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/pyspark-data-engineering](https://github.com/MutharasuArchunan13/Data-Engineering).git
+   git clone https://github.com/MutharasuArchunan13/Data-Engineering.git
    cd pyspark-data-engineering
 
